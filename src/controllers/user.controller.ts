@@ -1,5 +1,5 @@
 import { Application, Request, Response } from "express"
-import UserRepository from '../shared/infrastructure/repository/UserRepository';
+import UserRepository from '../shared/infrastructure/repository/user.repository'
 
 export const loadUserEndpoints = (app: Application): void => {
     const repository = new UserRepository()
