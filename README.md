@@ -2,7 +2,7 @@
 
 > Servidor de pruebas en express con typescript, en este caso el objetivo es probar la integración de [Prisma](https://www.prisma.io/)  y [MongoDB](https://www.mongodb.com/) así como una libreria de mixin para schemas de prisma: [prismix](https://github.com/jamiepine/prismix) y de esta forma intentar llevar el desarrollo a través de DDD
 
-## Usage
+## Uso
 
 Clonar el proyecto, y crear un archivo .env con las siguientes variables
 ```
@@ -11,7 +11,7 @@ Clonar el proyecto, y crear un archivo .env con las siguientes variables
 ```
  y ejecutar instalación para desplegar la api en el puerto especificado o por defecto en el puerto 3000.
 
-## Installation
+## Instalación
 
 ```shell
     # Instalar dependencias
@@ -24,7 +24,7 @@ Clonar el proyecto, y crear un archivo .env con las siguientes variables
     yarn prismix
 ```
 
-## Stack
+## Stack tecnologico
 
 Algunos links the licéncias Open source para copiar y pegar:
 
@@ -35,9 +35,9 @@ Algunos links the licéncias Open source para copiar y pegar:
 - [Prismix](https://github.com/jamiepine/prismix)
 - [DDD](https://es.wikipedia.org/wiki/Dise%C3%B1o_guiado_por_el_dominio)
 
-## Contact info
+## Información de contacto
 
 > [Alejandro Martinez](https://www.linkedin.com/in/amdevelop/)
-## License
+## Licencia
 
 TuColegaDev - [MIT](https://opensource.org/licenses/MIT)
